@@ -1,0 +1,4 @@
+Pages\LoginPage.class
+Pages\HomePage.class
+Utilities\ConfigReader.class
+Base\TestBase.class
